@@ -1,2 +1,2 @@
 # LittleFox-ColorTheme
-My .json for LittleFox
+My .json for my Fork of [LittleFox](https://github.com/Firnschnee/LittleFox)
