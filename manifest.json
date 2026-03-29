@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "version": "1.0",
-  "name": "LittleFox Gruvbox",
+  "name": "LittleFox ColorTheme",
   "theme": {
     "colors": {
       "frame": "#282828",
